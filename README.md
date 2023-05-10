@@ -1,6 +1,7 @@
 # ddu-source-arglist
 
 Argument list source for ddu.vim
+
 This source collects files in the argument list.
 
 ## Required
